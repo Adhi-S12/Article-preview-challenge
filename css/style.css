@@ -125,6 +125,7 @@ body {
   padding: 2.5rem;
 }
 .card__title {
+  color: #505968;
   font-size: 1.4rem;
   font-weight: 700;
 }
@@ -132,7 +133,7 @@ body {
   max-width: 31.5ch;
   line-height: 1.8;
   margin-block-start: 1rem;
-  color: #818591;
+  color: #9da5b0;
   font-size: 1.05rem;
 }
 
@@ -154,7 +155,8 @@ body {
 }
 
 .social__name {
-  font-size: 1rem;
+  color: #525961;
+  font-size: 0.95rem;
 }
 
 .social__date {
